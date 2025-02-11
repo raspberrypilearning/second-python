@@ -1,0 +1,17 @@
+title: default-project-template
+hero_image: images/banner.png
+description: default-project-template description
+version: 1
+listed: false
+copyedit: false
+last_tested: "2025-01-01"
+steps:
+  - title: 1
+  - title: 2
+  - title: 3
+  - title: 4
+  - title: 5
+  - title: 6
+  - title: 7
+  - title: 8
+  - title: 9

@@ -1,0 +1,4 @@
+name: "Mod madness"
+identifier: "second-python-starter"
+type: 'python'
+build: true
