@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">🟢 Task</h2>
+<h2 class="c-project-heading--task"></h2>
 --- task ---
 ➡️ Change the phrase
 --- /task ---

@@ -1,6 +1,6 @@
-<h2 class="c-project-heading--task">🟢 Task</h2>
+<h2 class="c-project-heading--task"></h2>
 --- task ---
-➡️ Click 'Run' 
+Click ![Run button](images/run.png)
 --- /task ---
 
 Look at the output:
@@ -13,6 +13,7 @@ You be a pirate
 ```
 </div>
 
-Click the > arrow for the next challenge.
+Click the arrow for the next challenge.
+![Next arrow](images/next.png)
 
 
