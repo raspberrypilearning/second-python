@@ -3,11 +3,13 @@
 ➡️ Click 'Run' 
 --- /task ---
 
-Match the output:
+Look at the output:
 
 <div class="c-project-output">
 ```
-🦡
+Replacing are with be...
+Replacing you with ye...
+You be a pirate
 ```
 </div>
 
