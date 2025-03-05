@@ -1,5 +1,6 @@
+<h2 class="c-project-heading--task">Start here</h2>
 --- task ---
-Click Run
+➡️ Click **Run**.
 --- /task ---
 
 Look at the output:
