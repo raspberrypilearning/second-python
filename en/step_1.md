@@ -1,4 +1,3 @@
-<h2 class="c-project-heading--task"></h2>
 --- task ---
 Click ![Run button](images/run.png)
 --- /task ---
