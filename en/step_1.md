@@ -1,5 +1,5 @@
 --- task ---
-Click ![Run button](images/run.png)
+Click Run
 --- /task ---
 
 Look at the output:
@@ -12,7 +12,8 @@ You be a pirate
 ```
 </div>
 
-Click the arrow for the next challenge.
-![Next arrow](images/next.png)
+--- task ---
+Click the > arrow for the next challenge.
+--- /task ---
 
 
